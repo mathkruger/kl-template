@@ -1,0 +1,15 @@
+{
+  "name": "kl-template",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "kl-compiler-in-kl --path ./src --output ./build"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "kl-compiler-in-kl": "github:mathkruger/kl-compiler-in-kl"
+  }
+}
